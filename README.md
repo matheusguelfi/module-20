@@ -21,7 +21,10 @@
 
 
 ![Alt Text](https://github.com/matheusguelfi/module-20/blob/main/Execution_results/third_deposit_process.png)
+
 - Withdrawn
+
+
 ![Alt Text](https://github.com/matheusguelfi/module-20/blob/main/Execution_results/withdrawal_one_result.png)
 
 ----

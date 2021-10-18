@@ -11,12 +11,15 @@
   - Remix IDE
 ---------------
 - Deploy
-[!alt](https://github.com/matheusguelfi/module-20/blob/main/Execution_results/deployed_contract.png)
+
+![Alt Text](https://github.com/matheusguelfi/module-20/blob/main/Execution_results/deployed_contract.png)
 
 - deposit
 ![Alt Text](https://github.com/matheusguelfi/module-20/blob/main/Execution_results/deposit_10_ether_verification.png)
 
 ![Alt Text](https://github.com/matheusguelfi/module-20/blob/main/Execution_results/first_deposit_result.png)
+
+
 ![Alt Text](https://github.com/matheusguelfi/module-20/blob/main/Execution_results/third_deposit_process.png)
 - Withdrawn
 ![Alt Text](https://github.com/matheusguelfi/module-20/blob/main/Execution_results/withdrawal_one_result.png)
